@@ -13,6 +13,7 @@ Research Questions to Answer:
 
 Datasets to Be Used:
 - Spotify API and spotipy python library
+- Spotify charts - pulled csv files containing historical streaming data for the top 200 and viral 50 songs 
 - US department of labor - employment and training administration
 
 Breakdown of Tasks:
